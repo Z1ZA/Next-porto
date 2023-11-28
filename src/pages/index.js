@@ -46,7 +46,7 @@ export default function Home() {
                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                Hi, I'm Abdul Aziz, an informatics engineering student at
+                Hi, Im Abdul Aziz, an informatics engineering student at
                 Muhammadiyah University, Surakarta. Very enthusiastic in the
                 world of technology, has a lot of experience in the field of web
                 development, especially the front-end side, likes trying new
